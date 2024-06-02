@@ -1,4 +1,4 @@
-﻿// High level statements were used hence the absence of generated code like the class statement.
+﻿// High level statements were used hence the absence of generated code like the class statement
 const int regularPrice = 10;
 const int discountPrice = 7;
 
