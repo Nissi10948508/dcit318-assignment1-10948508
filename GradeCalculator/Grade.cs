@@ -1,5 +1,5 @@
 ﻿// High level statements were used hence the absence of generated code like the class statement.
-Console.Write("Enter a numerical grade (0-100): ");
+Console.Write("Enter a numerical grade in the range (0-100): ");
 int grade = int.Parse(Console.ReadLine());
 
 if (grade >= 90)
