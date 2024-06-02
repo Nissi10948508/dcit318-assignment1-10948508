@@ -1,13 +1,13 @@
 ﻿// High level statements were used hence the absence of generated code like the class statement.
 Console.WriteLine("Enter the lengths of the three sides of the triangle:");
 
-Console.Write("Side 1: ");
+Console.Write("Side One: ");
 double side1 = double.Parse(Console.ReadLine());
 
-Console.Write("Side 2: ");
+Console.Write("Side Two: ");
 double side2 = double.Parse(Console.ReadLine());
 
-Console.Write("Side 3: ");
+Console.Write("Side Three: ");
 double side3 = double.Parse(Console.ReadLine());
 
 if (side1 == side2 && side2 == side3)
